@@ -5144,6 +5144,9 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover{
 .border-secondary{
     border-color:#2c3e50!important
 }
+.border-pink{
+    border-color:#e398ba!important
+}
 .border-success{
     border-color:#28a745!important
 }
@@ -7579,6 +7582,12 @@ a.text-primary:focus,a.text-primary:hover{
 }
 a.text-secondary:focus,a.text-secondary:hover{
     color:#11181f!important
+}
+.text-pink{
+    color:#e398ba!important
+}
+a.text-pink:focus,a.text-pink:hover{
+    color:#e388b1!important
 }
 .text-success{
     color:#28a745!important
