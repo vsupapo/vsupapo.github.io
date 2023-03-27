@@ -7903,13 +7903,13 @@ a.text-dark:focus,a.text-dark:hover{
     color:#fff
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover{
-    color:#ffcfdb
+    color:#1abc9c
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active,#mainNav .navbar-nav li.nav-item a.nav-link:focus{
     color:#fff
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active{
-    color:#ffcfdb
+    color:#1abc9c
 }
 #mainNav .navbar-toggler{
     font-size:80%;
@@ -7930,7 +7930,7 @@ a.text-dark:focus,a.text-dark:hover{
     }
     #mainNav .navbar-nav>li.nav-item>a.nav-link.active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover{
         color:#fff;
-        background:#ffcfdb
+        background:#1abc9c
     }
     #mainNav.navbar-shrink{
         padding-top:.5rem;
