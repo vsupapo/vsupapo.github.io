@@ -7183,6 +7183,11 @@ textarea.form-control-lg {
   border-color: rgba(var(--bs-primary-rgb), var(--bs-border-opacity)) !important;
 }
 
+.border-teal {
+  --bs-border-opacity: 1;
+  border-color: rgba(var(--bs-teal-rgb), var(--bs-border-opacity)) !important;
+}
+
 .border-secondary {
   --bs-border-opacity: 1;
   border-color: rgba(var(--bs-secondary-rgb), var(--bs-border-opacity)) !important;
@@ -8043,6 +8048,11 @@ textarea.form-control-lg {
 .text-primary {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+}
+
+.text-teal {
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-teal-rgb), var(--bs-text-opacity)) !important;
 }
 
 .text-secondary {
