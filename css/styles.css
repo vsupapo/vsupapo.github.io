@@ -4,7 +4,7 @@
     --blue:#007bff;
     --indigo:#6610f2;
     --purple:#6f42c1;
-    --pink:#ebb0cb;
+    --pink:#ffcfdb;
     --red:#dc3545;
     --orange:#fd7e14;
     --yellow:#ffc107;
@@ -5156,10 +5156,10 @@ a.bg-secondary:focus,a.bg-secondary:hover,button.bg-secondary:focus,button.bg-se
     background-color:#1a252f!important
 }
 .bg-pink{
-    background-color:#ebb0cb!important
+    background-color:#ffcfdb!important
 }
 a.bg-pink:focus,a.bg-pink:hover,button.bg-pink:focus,button.bg-pink:hover{
-    background-color:#ebb0cb!important
+    background-color:#ffcfdb!important
 }
 .bg-success{
     background-color:#28a745!important
@@ -5240,7 +5240,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover{
     border-color:#2c3e50!important
 }
 .border-pink{
-    border-color:#ebb0cb!important
+    border-color:#ffcfdb!important
 }
 .border-success{
     border-color:#28a745!important
@@ -7679,10 +7679,10 @@ a.text-secondary:focus,a.text-secondary:hover{
     color:#11181f!important
 }
 .text-pink{
-    color:#ebb0cb!important
+    color:#ffcfdb!important
 }
 a.text-pink:focus,a.text-pink:hover{
-    color:#ebb0cb!important
+    color:#ffcfdb!important
 }
 .text-success{
     color:#28a745!important
