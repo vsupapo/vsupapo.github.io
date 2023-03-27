@@ -1350,6 +1350,15 @@ pre code{
 .table-hover .table-secondary:hover,.table-hover .table-secondary:hover>td,.table-hover .table-secondary:hover>th{
     background-color:#b6bcc2
 }
+.table-pink,.table-pink>td,.table-pink>th{
+    background-color:#bfece3
+}
+.table-pink tbody+tbody,.table-pink td,.table-pink th,.table-pink thead th{
+    border-color:#88dccc
+}
+.table-hover .table-pink:hover,.table-hover .table-pink:hover>td,.table-hover .table-pink:hover>th{
+    background-color:#abe6da
+}
 .table-success,.table-success>td,.table-success>th{
     background-color:#c3e6cb
 }
@@ -1941,6 +1950,32 @@ a.btn.disabled,fieldset:disabled a.btn{
 .btn-secondary:not(:disabled):not(.disabled).active:focus,.btn-secondary:not(:disabled):not(.disabled):active:focus,.show>.btn-secondary.dropdown-toggle:focus{
     box-shadow:0 0 0 .2rem rgba(76,91,106,.5)
 }
+.btn-pink{
+    color:#fff;
+    background-color:#1abc9c;
+    border-color:#1abc9c
+}
+.btn-pink.focus,.btn-pink:focus,.btn-pink:hover{
+    color:#fff;
+    background-color:#159a80;
+    border-color:#148f77
+}
+.btn-pink.focus,.btn-pink:focus{
+    box-shadow:0 0 0 .2rem rgba(60,198,171,.5)
+}
+.btn-pink.disabled,.btn-pink:disabled{
+    color:#fff;
+    background-color:#1abc9c;
+    border-color:#1abc9c
+}
+.btn-pink:not(:disabled):not(.disabled).active,.btn-pink:not(:disabled):not(.disabled):active,.show>.btn-pink.dropdown-toggle{
+    color:#fff;
+    background-color:#148f77;
+    border-color:#12846e
+}
+.btn-pink:not(:disabled):not(.disabled).active:focus,.btn-pink:not(:disabled):not(.disabled):active:focus,.show>.btn-pink.dropdown-toggle:focus{
+    box-shadow:0 0 0 .2rem rgba(60,198,171,.5)
+}
 .btn-success{
     color:#fff;
     background-color:#28a745;
@@ -2144,6 +2179,30 @@ a.btn.disabled,fieldset:disabled a.btn{
 }
 .btn-outline-secondary:not(:disabled):not(.disabled).active:focus,.btn-outline-secondary:not(:disabled):not(.disabled):active:focus,.show>.btn-outline-secondary.dropdown-toggle:focus{
     box-shadow:0 0 0 .2rem rgba(44,62,80,.5)
+}
+.btn-outline-pink{
+    color:#1abc9c;
+    border-color:#1abc9c
+}
+.btn-outline-pink:hover{
+    color:#fff;
+    background-color:#1abc9c;
+    border-color:#1abc9c
+}
+.btn-outline-pink.focus,.btn-outline-pink:focus{
+    box-shadow:0 0 0 .2rem rgba(26,188,156,.5)
+}
+.btn-outline-pink.disabled,.btn-outline-pink:disabled{
+    color:#1abc9c;
+    background-color:transparent
+}
+.btn-outline-pink:not(:disabled):not(.disabled).active,.btn-outline-pink:not(:disabled):not(.disabled):active,.show>.btn-outline-pink.dropdown-toggle{
+    color:#fff;
+    background-color:#1abc9c;
+    border-color:#1abc9c
+}
+.btn-outline-pink:not(:disabled):not(.disabled).active:focus,.btn-outline-pink:not(:disabled):not(.disabled):active:focus,.show>.btn-outline-pink.dropdown-toggle:focus{
+    box-shadow:0 0 0 .2rem rgba(26,188,156,.5)
 }
 .btn-outline-success{
     color:#28a745;
@@ -3805,6 +3864,18 @@ a.badge-secondary.focus,a.badge-secondary:focus{
     outline:0;
     box-shadow:0 0 0 .2rem rgba(44,62,80,.5)
 }
+.badge-pink{
+    color:#fff;
+    background-color:#1abc9c
+}
+a.badge-pink:focus,a.badge-pinkrimary:hover{
+    color:#fff;
+    background-color:#148f77
+}
+a.badge-pink.focus,a.badge-pink:focus{
+    outline:0;
+    box-shadow:0 0 0 .2rem rgba(26,188,156,.5)
+}
 .badge-success{
     color:#fff;
     background-color:#28a745
@@ -3937,6 +4008,17 @@ a.badge-dark.focus,a.badge-dark:focus{
 }
 .alert-secondary .alert-link{
     color:#050709
+}
+.alert-pink{
+    color:#0e6251;
+    background-color:#d1f2eb;
+    border-color:#bfece3
+}
+.alert-pink hr{
+    border-top-color:#abe6da
+}
+.alert-pink .alert-link{
+    color:#08352c
 }
 .alert-success{
     color:#155724;
@@ -4273,6 +4355,19 @@ a.badge-dark.focus,a.badge-dark:focus{
     color:#fff;
     background-color:#17202a;
     border-color:#17202a
+}
+.list-group-item-pink{
+    color:#0e6251;
+    background-color:#bfece3
+}
+.list-group-item-pink.list-group-item-action:focus,.list-group-item-pink.list-group-item-action:hover{
+    color:#0e6251;
+    background-color:#abe6da
+}
+.list-group-item-pink.list-group-item-action.active{
+    color:#fff;
+    background-color:#0e6251;
+    border-color:#0e6251
 }
 .list-group-item-success{
     color:#155724;
