@@ -4,7 +4,7 @@
     --blue:#007bff;
     --indigo:#6610f2;
     --purple:#6f42c1;
-    --pink:#e83e8c;
+    --pink:#e398ba;
     --red:#dc3545;
     --orange:#fd7e14;
     --yellow:#ffc107;
@@ -5059,6 +5059,12 @@ a.bg-primary:focus,a.bg-primary:hover,button.bg-primary:focus,button.bg-primary:
 }
 a.bg-secondary:focus,a.bg-secondary:hover,button.bg-secondary:focus,button.bg-secondary:hover{
     background-color:#1a252f!important
+}
+.bg-pink{
+    background-color:#e398ba!important
+}
+a.bg-pink:focus,a.bg-pink:hover,button.bg-pink:focus,button.bg-pink:hover{
+    background-color:#e388b1!important
 }
 .bg-success{
     background-color:#28a745!important
