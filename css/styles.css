@@ -8014,7 +8014,6 @@ a.text-dark:focus,a.text-dark:hover{
     .container,body{
         min-width:992px!important
     }
-    .navbar{
         display:none
     }
     .badge{
@@ -8116,7 +8115,7 @@ a.text-dark:focus,a.text-dark:hover{
     font-weight:700
 }
 #mainNav .navbar-brand{
-    color:#ffcfdb
+    color:#fddde6
 }
 #mainNav .navbar-nav{
     margin-top:1rem
@@ -8131,7 +8130,7 @@ a.text-dark:focus,a.text-dark:hover{
     color:#fff
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active{
-    color:#bee5d1
+    color:#fddde6
 }
 #mainNav .navbar-toggler{
     font-size:80%;
@@ -8304,7 +8303,7 @@ form .row:first-child .floating-label-form-group{
     align-items:center;
     justify-content:center;
     font-size:2rem;
-    background-color:#1abc9c;
+    background-color:#fddde6;
     color:#fff;
     border-radius:100%
 }
