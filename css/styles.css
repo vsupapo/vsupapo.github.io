@@ -8125,13 +8125,13 @@ a.text-dark:focus,a.text-dark:hover{
     color:#fff
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover{
-    color:#1abc9c
+    color:#bee5d1
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active,#mainNav .navbar-nav li.nav-item a.nav-link:focus{
     color:#fff
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active{
-    color:#1abc9c
+    color:#bee5d1
 }
 #mainNav .navbar-toggler{
     font-size:80%;
