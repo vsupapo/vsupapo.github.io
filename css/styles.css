@@ -1998,26 +1998,26 @@ a.btn.disabled,fieldset:disabled a.btn{
 }
 .btn-beige{
     color:#fff;
-    background-color:#ffcfdb;
-    border-color:#ffcfdb
+    background-color:#f3e9d5;
+    border-color:#f3e9d5
 }
 .btn-beige.focus,.btn-beige:focus,.btn-beige:hover{
     color:#fff;
-    background-color:#ffcfdb;
-    border-color:#ffcfdb
+    background-color:#f3e9d5;
+    border-color:#f3e9d5
 }
 .btn-beige.focus,.btn-beige:focus{
     box-shadow:0 0 0 .2rem rgba(60,198,171,.5)
 }
 .btn-beige.disabled,.btn-beige:disabled{
     color:#fff;
-    background-color:#ffcfdb;
-    border-color:#ffcfdb
+    background-color:#f3e9d5;
+    border-color:#f3e9d5
 }
 .btn-beige:not(:disabled):not(.disabled).active,.btn-beige:not(:disabled):not(.disabled):active,.show>.btn-beige.dropdown-toggle{
     color:#fff;
-    background-color:#ffcfdb;
-    border-color:#ffcfdb
+    background-color:#f3e9d5;
+    border-color:#f3e9d5
 }
 .btn-beige:not(:disabled):not(.disabled).active:focus,.btn-beige:not(:disabled):not(.disabled):active:focus,.show>.btn-beige.dropdown-toggle:focus{
     box-shadow:0 0 0 .2rem rgba(60,198,171,.5)
@@ -2277,25 +2277,25 @@ a.btn.disabled,fieldset:disabled a.btn{
     box-shadow:0 0 0 .2rem rgba(26,188,156,.5)
 }
 .btn-outline-beige{
-    color:#ffcfdb;
-    border-color:#ffcfdb
+    color:#f3e9d5;
+    border-color:#f3e9d5
 }
 .btn-outline-beige:hover{
     color:#fff;
-    background-color:#ffcfdb;
-    border-color:#ffcfdb
+    background-color:#f3e9d5;
+    border-color:#f3e9d5
 }
 .btn-outline-beige.focus,.btn-outline-beige:focus{
     box-shadow:0 0 0 .2rem rgba(26,188,156,.5)
 }
 .btn-outline-beige.disabled,.btn-outline-beige:disabled{
-    color:#ffcfdb;
+    color:#f3e9d5;
     background-color:transparent
 }
 .btn-outline-beige:not(:disabled):not(.disabled).active,.btn-outline-beige:not(:disabled):not(.disabled):active,.show>.btn-outline-beige.dropdown-toggle{
     color:#fff;
-    background-color:#ffcfdb;
-    border-color:#ffcfdb
+    background-color:#f3e9d5;
+    border-color:#f3e9d5
 }
 .btn-outline-beige:not(:disabled):not(.disabled).active:focus,.btn-outline-beige:not(:disabled):not(.disabled):active:focus,.show>.btn-outline-beige.dropdown-toggle:focus{
     box-shadow:0 0 0 .2rem rgba(26,188,156,.5)
@@ -4166,14 +4166,14 @@ a.badge-dark.focus,a.badge-dark:focus{
 }
 .alert-beige{
     color:#0e6251;
-    background-color:#ffcfdb;
-    border-color:#ffcfdb
+    background-color:#f3e9d5;
+    border-color:#f3e9d5
 }
 .alert-beige hr{
     border-top-color:#ffcfdb
 }
 .alert-beige .alert-link{
-    color:#ffcfdb
+    color:#f3e9d5
 }
 .alert-mint{
     color:#bee5d1;
